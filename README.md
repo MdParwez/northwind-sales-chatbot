@@ -82,7 +82,7 @@ App will be available at **[http://localhost:3000](http://localhost:3000)** 🎉
 
 ---
 
-## 📊 Sample Output
+## 📊 Sample Output:
 
 ✅ Natural language → SQL → Insight
 
