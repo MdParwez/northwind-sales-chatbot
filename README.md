@@ -1,7 +1,7 @@
 
 ---
 
-# 🛒 Northwind Sales Chatbot
+# 🛒 Northwind Sales Chatbot:
 
 An **AI-powered chatbot** that interacts with the classic **Northwind Sales Database**, enabling users to ask natural language questions about sales, products, customers, and orders. The chatbot translates user queries into SQL (via LLM) and returns accurate business insights in real-time.
 
